@@ -19,4 +19,3 @@ The goal is to:
 - **Plotly/D3.js**: To create compelling visualizations.
 - **Flask**: For developing the web application backend.
 
--
